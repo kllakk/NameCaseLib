@@ -1,0 +1,11 @@
+{
+    "name": "kllakk/name-case-lib",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "autoload": {
+        "classmap": [
+            "Library/"
+        ]
+    },
+    "require": {}
+}
